@@ -23,16 +23,16 @@ Walk through
 -------------
 #### <i class="icon-home"></i> Home Page
 
-![This is our homepage](images/homepage.png)
+![This is our homepage](tree/master/images/homepage.png)
 You can see 2 tabs in the menu. 2nd tab server the main data.
 
 #### <i class="icon-signal"></i> Graph Data
 
-![Graph Data](images/graphpage.png).
+![Graph Data](tree/master/images/graphpage.png).
 
 #### <i class="icon-tag"></i> Single Diagnosis Analysis
 
-![Single diagram page](images/singlediag.png)
+![Single diagram page](tree/master/images/singlediag.png)
 Here you can see analysis on single diagnosis code on the basis of age and sex. To see working:
 
  **1.** Enter the diagnosis code in the blank provided and chose one from
@@ -45,7 +45,7 @@ Here you can see analysis on single diagnosis code on the basis of age and sex. 
 
 #### <i class="icon-tags"></i> Comparison on 2 Diagnosis Code 
 
-![enter image description here](images/2diag.png)
+![enter image description here](tree/master/images/2diag.png)
 In the Graph page go on to the second tab named as 2 Diagnosis. Enter 2 diagnosis code and see the results.
 Scroll down and click on get graph button to see live comparison between 2 diagnosis codes.
 
