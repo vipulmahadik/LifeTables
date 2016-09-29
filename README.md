@@ -23,16 +23,16 @@ Walk through
 -------------
 #### <i class="icon-home"></i> Home Page
 
-![This is our homepage](tree/master/images/homepage.png)
+![This is our homepage](https://cloud.githubusercontent.com/assets/9349690/18964049/e9676f3a-863c-11e6-840b-027b0f9817a9.PNG)
 You can see 2 tabs in the menu. 2nd tab server the main data.
 
 #### <i class="icon-signal"></i> Graph Data
 
-![Graph Data](tree/master/images/graphpage.png).
+![Graph Data](https://cloud.githubusercontent.com/assets/9349690/18964050/e967d042-863c-11e6-8059-a561e7e6d4dd.PNG).
 
 #### <i class="icon-tag"></i> Single Diagnosis Analysis
 
-![Single diagram page](tree/master/images/singlediag.png)
+![Single diagram page](https://cloud.githubusercontent.com/assets/9349690/18964051/e969b966-863c-11e6-8349-1b2e99dc3290.PNG)
 Here you can see analysis on single diagnosis code on the basis of age and sex. To see working:
 
  **1.** Enter the diagnosis code in the blank provided and chose one from
@@ -45,7 +45,7 @@ Here you can see analysis on single diagnosis code on the basis of age and sex. 
 
 #### <i class="icon-tags"></i> Comparison on 2 Diagnosis Code 
 
-![enter image description here](tree/master/images/2diag.png)
+![enter image description here](https://cloud.githubusercontent.com/assets/9349690/18964052/e96d01a2-863c-11e6-91ba-ffec957a9f32.PNG)
 In the Graph page go on to the second tab named as 2 Diagnosis. Enter 2 diagnosis code and see the results.
 Scroll down and click on get graph button to see live comparison between 2 diagnosis codes.
 
